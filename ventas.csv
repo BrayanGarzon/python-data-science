@@ -1,0 +1,61 @@
+ID,Nombre,Ciudad,Edad,Ventas,Categoria,Fecha
+1,Ana,Bogotá,23,1200,Tecnología,2026-01-05
+2,Luis,Medellín,31,1850,Hogar,2026-01-06
+3,María,Cali,27,980,Tecnología,2026-01-07
+4,Carlos,Barranquilla,35,2100,Deportes,2026-01-08
+5,Laura,Villavicencio,29,1750,Moda,2026-01-09
+6,Juan,Bogotá,41,2450,Tecnologia,2026-01-10
+7,Sofia,Cali,22,890,Moda,2026-01-11
+8,Miguel,Medellín,38,1990,Hogar,2026-01-12
+9,Valentina,Bogotá,26,1540,Tecnología,2026-01-13
+10,Andrés,Villavicencio,33,1675,Deportes,2026-01-14
+11, Camila ,bogota,24,1320,TECNOLOGIA,15/01/2026
+12,Pedro, Medellin ,30,,Hogar,2026-01-16
+13,Daniela,Cali,,1120,Moda,2026-01-17
+14,Mateo,Bogotá,28,1430,,2026-01-18
+15,Natalia,BOGOTA,32,1980,tecnologia,2026/01/19
+16,Sebastián,Cali ,29,1560,Deportes,2026-01-20
+17,Paula,medellin,27,1750,Hogar,2026-01-21
+18,Andrés,Villavicencio,33,1675,Deportes,2026-01-14
+19,Juliana,Bogotá,26,"1,850",Moda,2026-01-23
+20,Felipe,Cali,25,900, moda ,2026-01-24
+21,Sara,Bogotá,24,1300,Tecnología,
+22,Diego,Medellín,29,2100,Hogar,2026-01-26
+23,Luisa,Cali,31,1450,Tecnología,2026-01-27
+24,Tomás,Barranquilla,37,2600,Deportes,2026-01-28
+25,Gabriela,Bogotá,23,1180,Moda,2026-01-29
+26,Nicolás,Bogotá,-5,1700,Tecnología,2026-01-30
+27,Isabella,Cali,28,-450,Moda,2026-01-31
+28,Samuel,Medellín,34,1900,Hogar,2026-02-01
+29,Mariana,bogotá,27,1550,Tecnología,02/02/2026
+30,David,Cali,300,1250,Deportes,2026-02-03
+31,Alejandra,Villavicencio,26,1480,Moda,2026-02-04
+32,Cristian,,30,1760,Hogar,2026-02-05
+33,Manuela,Bogotá,22,990,tecnología,2026-02-06
+34,Jorge,Medellin,45,3200,HOGAR,2026-02-07
+35,Carolina,Cali,28,1.450,Moda,2026-02-08
+36,Esteban,Barranquilla,36,,Deportes,2026-02-09
+37,Diana, Bogotá ,25,1250,Tecnología,2026-02-10
+38,Ricardo,Medellín,39,2150,Hogar,2026-02-11
+39,Mónica,Cali,27,1050,MODA,2026-02-12
+40,Oscar,Villavicencio,31,1680,Deportes,2026-02-13
+41,Ana,Bogotá,23,1200,Tecnología,2026-01-05
+42,Luis,Medellín,31,1850,Hogar,2026-01-06
+43,Rosa,Cali,,,Moda,2026-02-16
+44, ,Bogotá,29,1400,Tecnología,2026-02-17
+45,Kevin,Bogota,24,1500,Tecnologia,2026-02-18
+46,Laura,Villavicencio,29,1750,Moda,2026-01-09
+47,Martín,Medellín,33,"1,980",Hogar,2026-02-20
+48,Elena,Cali,26,1170,Moda,20-02-2026
+49,Pablo,Barranquilla,40,2300,Deportes,2026-02-22
+50,Adriana,Bogotá,28,1600,Tecnología,2026-02-23
+51, ,,,,,
+52,Bruno,Medellín,29,1800,Hogar,2026-02-25
+53,Claudia,Cali,34,1420,Moda,2026-02-26
+54,Mauricio,Bogotá,27,1750,Tecnología,2026-02-27
+55,Viviana,Bogotá,26,"1,650",Tecnologia,2026-02-28
+56,Santiago,Medellin,32,2050,Hogar,2026-03-01
+57,Tatiana,Cali,25,980,Moda,2026-03-02
+58,Gustavo,Barranquilla,38,2700,Deportes,2026-03-03
+59,Patricia,Villavicencio,30,1550,Moda,2026-03-04
+60,Alejandro,BOGOTA,35,2200,TECNOLOGIA,2026-03-05
